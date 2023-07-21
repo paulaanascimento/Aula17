@@ -1,4 +1,4 @@
-# Aula17
+# Exercícios
 <div align="justify">
   
 1. Crie um programa que pode controlar o volume e trocar os canais
